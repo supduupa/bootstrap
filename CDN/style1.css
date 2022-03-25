@@ -16,6 +16,7 @@
 h1{
     color: red;
     text-align: center;
+    font-size: 18px;
 }
 h2{
     color: red;
@@ -48,9 +49,10 @@ h3{
     
 }
 .pink{
-    background-color: red;
+    background-color: #212529;
     padding: 10px;
     border-radius: 5px;
+    color: #fff;
 }
 div h6{
     background: url("./lady.jpg");
@@ -62,6 +64,7 @@ div h6{
     align-items: center;
     text-align: center;
     color: #fff;
+    
 }
 .flex-shrink-0 {
     flex-shrink: 0!important;
@@ -87,14 +90,18 @@ div h6{
     margin-top: 40px;
 }
 .ten{
-    background-color: blue;
+    background-color: #6610f2;
+    color: #fff;
     padding: 30px;
     justify-content: space-between;
+    border-radius: 5px;
 }
 .one{
-    background-color: blue;
+    background-color: #0d6efd;
     padding: 30px;
     justify-content: space-between;
+    color: #fff;
+    border-radius: 5px;
 }
 .large{
     color: red;
@@ -102,9 +109,11 @@ div h6{
     text-align: center;
 }
 .two{
-    background-color: blue;
+    background-color: #6f42c1;
     padding: 30px;
     justify-content: space-between;
+    color: #fff;
+    border-radius: 5px;
 }
 .card{
    width: 185px;
